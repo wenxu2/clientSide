@@ -1,0 +1,59 @@
+.backdisplay{
+    overflow:hidden;
+    background-image:url("../img/background.jpg");
+    height:800px;
+
+}
+
+.discription{
+    overflow: hidden;
+    border: 0px;
+}
+
+h1{
+    font-weight:300;
+    font-family: Roboto,sans-serif;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom:50px;
+}
+
+li{
+    text-align: left;
+    font-weight:300;
+    font-family: Roboto,sans-serif;
+    size:25px;
+    padding-right:100px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:100px;
+
+}
+
+p{
+    text-align: left;
+    font-weight:300;
+    font-family: Roboto,sans-serif;
+    size:25px;
+    padding-left:100px;
+    padding-right:100px;
+    padding-top:10px;
+    padding-bottom:10px;
+
+}
+a{
+    padding-left:110px;
+    font-family: Roboto,sans-serif;
+    size:25px;
+    font-weight:300;
+    padding-right:100px;
+}
+
+
+
+*{
+    border: 0px solid #eee;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
